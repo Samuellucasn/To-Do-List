@@ -1,0 +1,14 @@
+.btn-component {
+    min-width: 30px;
+    min-height: 30px;
+    border: none;
+    border-radius: 5px;
+    background-color: #693e7f;
+    color: white;
+    font-size: 15px;
+    padding: 5px;
+}
+
+.btn-component:hover {
+    background-color: #7a4594;
+}
